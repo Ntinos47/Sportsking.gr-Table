@@ -32,6 +32,7 @@ table {
   border-collapse: collapse;
 }
 
+
 td {
   padding: 20px 0;
   text-align: left;
@@ -46,6 +47,7 @@ td.small-article, td.large-article {
   font-size: 24px;
   font-weight: bold;
   text-align: center;
+  cursor: pointer;
 }
 
 .large-article img.large-image {
@@ -58,6 +60,7 @@ td.small-article, td.large-article {
   background-color: #fff;
   font-size: 20px;
   color: #555;
+  cursor: pointer;
 }
 
 .small-article .content-wrapper {
